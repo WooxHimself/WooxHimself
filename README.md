@@ -1,10 +1,17 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://user-images.githubusercontent.com/76164598/171924909-2f0acb8f-98ee-47ba-b443-94d8e6cff494.gif" />
+</a> 
+
 # Welcome to my profile!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wooxhimself&theme=material-palenight&show_icons=true" />
-</a>
+</a> <br>
 
-# Some of my popular projects
+<br>
+
+# Some of my popular projects 
+
 <a href="https://github.com/wooxhimself/dotsv2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wooxhimself&repo=dotsv2&theme=material-palenight" />
 </a>
