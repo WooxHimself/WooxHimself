@@ -1,7 +1,8 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=nwvh&label=Profile%20Views&color=0e75b6&style=flat"/>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://user-images.githubusercontent.com/76164598/171924909-2f0acb8f-98ee-47ba-b443-94d8e6cff494.gif" />
+
+  <img align="center" src="https://user-images.githubusercontent.com/76164598/176948953-024f0366-baf6-42ee-b02b-53f8cfaa5176.gif" />
 </a> 
 
 # Welcome to my profile!
