@@ -16,11 +16,11 @@
 # Some of my popular projects 
 
 <a href="https://github.com/wooxhimself/dotsv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=dotsv2&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=pleasegivemeabreakdotfiles&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/wooxhimself/dotsv3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=dotsv3&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=dotsv5&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/wooxhimself/startpage">
