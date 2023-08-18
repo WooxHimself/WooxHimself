@@ -1,52 +1,15 @@
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=nwvh&label=Profile%20Views&color=0e75b6&style=flat"/>
+<div align="center"> <br><a><img src="https://komarev.com/ghpvc/?username=nwvh&label=Visitors&color=orange&style=for-the-badge"/></a><br>
+<a href="https://paypal.me/wooxhimself"><img align="center" src="https://img.shields.io/badge/Support_my_work-blue?logo=paypal&style=for-the-badge" /></a>
+<a href="https://discord.gg/9kmNFFxFpS"><img align="center" src="https://img.shields.io/badge/Support_Server-violet?logo=discord&style=for-the-badge" /></a>
+<a href="https://0wx.tebex.io/"><img align="center" src="https://img.shields.io/badge/Tebex_Store-darkgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAACDCAMAAACZQ1hUAAAAOVBMVEUQQpb////i5e8ALo8AI4z29/oAJ43I0OIANJGMm8P6+/3N1OXFzeAAAIXo6/IAOpN9jrwAN5IAK444zweaAAAAlUlEQVR4nO3Puw7CMBBFQROTBPIO//+xtDGSq1Vkijn1lXY2JUmSJEmSGvSMFyV8pj7aNAQNwyMeAwMDA8O9hjyPlZa+ONQvteGcg4Y01Fq7wtCt1WWUUC//GMLfMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMNxl2ArD1sKwH+9rx97AkM7XtbMFQZIkSZKk/+4LZLEPSctIJC0AAAAASUVORK5CYII=&logoColor=white&style=for-the-badge" /></a>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwvh&exclude_repo=txAdmin,excalith-start-page,voidots,dotsV3,dotsV4&theme=gruvbox"></img>
+  <br>
+
+</div>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img align="center" src="https://user-images.githubusercontent.com/76164598/176948953-024f0366-baf6-42ee-b02b-53f8cfaa5176.gif" />
-</a> 
-
-# Welcome to my profile!
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nwvh&theme=material-palenight&show_icons=true" />
-</a> <br>
-
-<br>
-
-# Some of my popular projects 
-
-<a href="https://github.com/wooxhimself/dotsv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=pleasegivemeabreakdotfiles&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/wooxhimself/dotsv3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=dotsv5&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/wooxhimself/startpage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=startpage&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/wooxhimself/TrackDown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=TrackDown&theme=material-palenight" />
-</a>
-  
-
-<a href="https://github.com/wooxhimself/Pymgur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=pymgur&theme=material-palenight" />
-</a>
-
-
-
-
-<a href="https://github.com/wooxhimself/dotsv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nwvh&repo=neverwhere&theme=material-palenight" />
-</a>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
-
+<div align="center">
+<a href="https://fivem.net"><img src="https://img.shields.io/badge/-orange?logo=fivem&style=for-the-badge" /></a>
+<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/-grey?logo=linux&logoColor=white&style=for-the-badge" /></a>
+<a href="https://lua.org"><img src="https://img.shields.io/badge/-blue?logo=lua&logoColor=white&style=for-the-badge" /></a>
 </div>
