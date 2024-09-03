@@ -1,11 +1,1 @@
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=nwvh&bg_color=ffffff&color=000000&line=dcc8f9&point=ceadff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwvh&langs_count=3" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=nwvh&langs_count=3" />
-  <br>
-  <br>
-
-  
-</div>
-
-<br>
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/66d75d63000e1fce05d2/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
